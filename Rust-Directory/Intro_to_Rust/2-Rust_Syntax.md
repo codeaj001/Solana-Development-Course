@@ -14,7 +14,8 @@
 ###### - Character
 - - `let letter = 'a';`
 ###### - Function
-```- - `fn add(x, y) {
+``` 
+- - `fn add(x, y) {
     x + y
 }
 ```
