@@ -11,3 +11,17 @@
 
 #### My Understanding 🧐
 ##### Rust is a combination of low-level and high-level language 😋 [for-sure]
+
+
+# Installation
+
+Although I have my:
+- WSL 
+- Cargo
+- SOlana CLI
+- Anchor 
+
+### And everything installed
+
+I will be using the Rust playground to test around stuff before we go big 🥰
+- Join me [Rust Playground](https://play.rust-lang.org/) - It has almost all the tools we need for now
